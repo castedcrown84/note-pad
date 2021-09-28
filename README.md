@@ -1,4 +1,6 @@
-## note-pad
+## Note-Pad
 
-An app that can be used to write, save, and delete notes. My first foray into using express and writing back-end code. It will retrieve note data from a JSON file.
+An app that can be used to write, save, and delete notes. Used express and back-end code, which will retrieve note data from a JSON file.
+
+---------
 
